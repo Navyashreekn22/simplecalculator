@@ -1,0 +1,26 @@
+.calculator {
+  margin-top: 200px;
+  margin-left: 550px;
+  width: 200px;
+  padding: 20px;
+  background-color: black;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.calculator input {
+  width: 88%;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.calculator table {
+  width: 100%;
+}
+
+.calculator td button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
